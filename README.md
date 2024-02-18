@@ -18,3 +18,4 @@ Click on the arithmetic operation buttons to perform calculations.
 Use the additional functionalities such as clear display, change sign, and percentage calculation as needed.
 Press "=" to calculate the result of the expression entered.
 Enjoy hassle-free arithmetic calculations!
+
